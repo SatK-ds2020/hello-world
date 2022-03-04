@@ -11,7 +11,7 @@ div {text-align: center;}
 <h1 style="color:blue;"> Hello, Welcome to Our DevOps Project  </h1>
 <h2 style="color:red;"> Version: 1.27 - Running on Ansible server to create a container on Docker Server - Subscribe my channel and keep learning </h2>
 <h1 style="color:green"> This is my modified version of html file </h1>
-
+<h1 style="color:pink"> Woohoo, I did it my first CICD pipeline through Jenkins </h1>
 </body>
 </html>
 
